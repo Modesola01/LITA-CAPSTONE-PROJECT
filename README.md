@@ -19,13 +19,21 @@ The primary source of data used for this analysis is Lita Capstone Project.xlsx 
 - Power BI for creating a dashboard for visualizing the insights found in Excel and SQL
 - GitHub for Portfolio Building.
   
-### DATA CLEANING AND PREPARATION
+### DATA CLEANING AND PREPARATIONS
  1. Data Loading and Inspection
  2. Data Sorting and Formatting
  3. Calculation of Metrics
 
 ### EXPLORATORY DATA ANALYSIS
  - What are the top selling products?
- - What are the regional performance?
+ - What are the regional performances?
  - What are the monthly sales trends?
+
+### DATA ANALYSIS
+Basic lines of codes used during analysis:
+
+``` Microsoft Excel
+=AVERAGEIF(C2:C5001,C30,G2:G5001)
+=PRODUCT(F2:G2)
+```
 
