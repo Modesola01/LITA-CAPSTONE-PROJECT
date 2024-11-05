@@ -16,5 +16,16 @@ The primary source of data used for this analysis is Lita Capstone Project.xlsx 
   3. for Data Visualization.
      
 - SQL - Structured Querying Language for Querying of Data.
+- Power BI for creating a dashboard for visualizing the insights found in Excel and SQL
 - GitHub for Portfolio Building.
+  
+### DATA CLEANING AND PREPARATION
+ 1. Data Loading and Inspection
+ 2. Data Sorting and Formatting
+ 3. Calculation of Metrics
+
+### EXPLORATORY DATA ANALYSIS
+ - What are the top selling products?
+ - What are the regional performance?
+ - What are the monthly sales trends?
 
