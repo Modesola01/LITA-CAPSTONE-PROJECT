@@ -39,7 +39,9 @@ Basic lines of codes used during analysis:
 
 ### DATA VISUALIZATION
 
-PRD. TQ.png
+AVG.png
+
+
 
 
 AVG.png
